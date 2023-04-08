@@ -1,0 +1,19 @@
+git init : inintialize the repo.
+
+git status : to check the status.
+
+git add <filename> : to add an specific file.
+
+git add . : to add all files of current directory.
+
+git commit -m "message" : to commit the files.
+
+git remote add origin git@github.com:salman-2023/testing_repo.git : to link your repo with your directory/project (ONE TIME).
+
+git push origin <branch_name> : to push your code in your repo.
+
+git branch <branch_name> : to create a new branch.
+
+git checkout <branch_name> : to switch in other branch. 
+
+git diff <file_name> : to check the difference between last commited file and current file.
